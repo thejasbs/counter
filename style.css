@@ -1,0 +1,43 @@
+#content{
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    opacity: 0.7;
+    border-radius: 15px;
+    
+}
+.container{
+    margin-top: 100px;
+}
+body{
+    background-color: azure;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: solid;
+    text-align: center;
+    margin-top: 20px;
+}
+.counter_content{
+    text-align: center;
+    font-size: 150px;
+    
+}
+#counter{
+    position: relative;
+    top: -10px;
+}
+.left_button{
+    margin: 25px;
+    float: left;
+    position: relative;
+    left: 20px;
+    bottom: 25px;
+}
+.right_button{
+    margin: 25px;
+    position: relative;
+    left: 120px;
+    bottom: 25px;
+}
+
